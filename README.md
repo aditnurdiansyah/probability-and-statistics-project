@@ -3,7 +3,7 @@
 Repositori ini berisi dokumentasi tutorial Uji Hipotesis untuk mata kuliah Probabilitas dan Statistika.
 
 ## Topik
-Uji Hipotesis Bagi Rata-Rata Satu Populasi – Ragam Populasi Diketahui (Uji Z)
+Uji Hipotesis Bagi Rata-Rata Satu Populasi - Ragam Populasi Diketahui (Uji Z)
 
 ## Anggota Kelompok
 - [Ayu Rahma Diah Herdi] - [3337250042]
@@ -17,5 +17,5 @@ Uji Hipotesis Bagi Rata-Rata Satu Populasi – Ragam Populasi Diketahui (Uji Z)
 
 ## Cara Menggunakan Kode
 1. Buka RStudio
-2. Buka file `kode/uji_z_ragam_diketahui.R`
+2. Buka file `kode.R`
 3. Jalankan seluruh kode dengan Ctrl+A kemudian Ctrl+Enter
