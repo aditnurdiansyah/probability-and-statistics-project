@@ -1,9 +1,6 @@
-# Tutorial Uji Hipotesis – Uji Z Satu Populasi (Ragam Diketahui)
+# Tutorial Uji Hipotesis Bagi Rata-Rata Satu Populasi - Ragam Populasi Diketahui (Uji Z)
 
 Repositori ini berisi dokumentasi dan link video tutorial Uji Hipotesis dari mata kuliah Probabilitas dan Statistika.
-
-## Topik
-Uji Hipotesis Bagi Rata-Rata Satu Populasi - Ragam Populasi Diketahui (Uji Z)
 
 ## Anggota Kelompok
 - Ayu Rahma Diah Herdi - 3337250042
