@@ -6,11 +6,11 @@ Repositori ini berisi dokumentasi tutorial Uji Hipotesis untuk mata kuliah Proba
 Uji Hipotesis Bagi Rata-Rata Satu Populasi - Ragam Populasi Diketahui (Uji Z)
 
 ## Anggota Kelompok
-- [Ayu Rahma Diah Herdi] - [3337250042]
-- [Nara Sista] - [3337250044]
-- [Ayomi Adya Jagad Putri] - [3337250059]
-- [Ikhwan As-Safa Az-Zanjani] - [3337250115]
-- [Adit Nurdiansyah] - [3337250023]
+- Ayu Rahma Diah Herdi - 3337250042
+- Nara Sista - 3337250044
+- Ayomi Adya Jagad Putri - 3337250059
+- Ikhwan As-Safa Az-Zanjani - 3337250115
+- Adit Nurdiansyah - 3337250023
 
 ## Link Video Tutorial
 [link video]
