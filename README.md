@@ -1,18 +1,18 @@
-# Tutorial Uji Hipotesis Bagi Rata-Rata Satu Populasi - Ragam Populasi Diketahui (Uji Z)
+# Tutorial on Hypothesis Testing for the Average of a Population - Known Population Variation (Z-Test)
 
-Repositori ini berisi dokumentasi dan link video tutorial Uji Hipotesis dari mata kuliah Probabilitas dan Statistika.
+This repository contains documentation and links to video tutorials on Hypothesis Testing from the Probability and Statistics course.
 
-## Anggota Kelompok
+## Members of the group
 - Ayu Rahma Diah Herdi - 3337250042
 - Nara Sista - 3337250044
 - Ayomi Adya Jagad Putri - 3337250059
 - Ikhwan As-Safa Az-Zanjani - 3337250115
 - Adit Nurdiansyah - 3337250023
 
-## Link Video Tutorial
-[link video]
+## Tutorial Video Link
+[video link]
 
-## Cara Menggunakan Kode
-1. Buka RStudio
-2. Buka file `kode.R`
-3. Jalankan seluruh kode dengan Ctrl+A kemudian Ctrl+Enter
+## How to Use the Code
+1. Open RStudio
+2. Open the `source-code.R` file
+3. Run the entire code with Ctrl+A then Ctrl+Enter
