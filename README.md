@@ -1,4 +1,4 @@
-# Tutorial on Hypothesis Testing for the Average of a Population - Known Population Variation (Z-Test)
+# Tutorial on Hypothesis Testing for the Average of a Population - Known Population Variation (Z Test)
 
 This repository contains documentation and links to video tutorials on Hypothesis Testing from the Probability and Statistics course.
 
