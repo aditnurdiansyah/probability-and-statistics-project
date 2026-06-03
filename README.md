@@ -11,8 +11,3 @@ This repository contains documentation and links to video tutorials on Hypothesi
 
 ## Tutorial Video Link
 [video link]
-
-## How to Use the Code
-1. Open RStudio
-2. Open the `source-code.R` file
-3. Run the entire code with Ctrl+A then Ctrl+Enter
