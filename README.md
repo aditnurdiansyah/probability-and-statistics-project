@@ -1,6 +1,6 @@
 # Tutorial on Hypothesis Testing for the Average of a Population - Known Population Variation (Z Test)
 
-This repository contains documentation and links to video tutorials on Hypothesis Testing from the Probability and Statistics course.
+This repository contains case study, source code, documentation, and links to video tutorials on Hypothesis Testing from the Probability and Statistics course.
 
 ## Class A - Group 8
 - Ayu Rahma Diah Herdi - 3337250042
@@ -10,4 +10,4 @@ This repository contains documentation and links to video tutorials on Hypothesi
 - Adit Nurdiansyah - 3337250023
 
 ## Tutorial Video Link
-[video link]
+[https://drive.google.com/file/d/1CeS3jCuuxcOFxNueY6_mJyYIBEdJr_St/view?usp=sharing]
