@@ -10,4 +10,4 @@ This repository contains case study, source code, documentation, and links to vi
 - Adit Nurdiansyah - 3337250023
 
 ## Tutorial Video Link
-[https://drive.google.com/file/d/1CeS3jCuuxcOFxNueY6_mJyYIBEdJr_St/view?usp=sharing]
+https://drive.google.com/file/d/1CeS3jCuuxcOFxNueY6_mJyYIBEdJr_St/view?usp=sharing
