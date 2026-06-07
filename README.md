@@ -1,4 +1,4 @@
-# Hypothesis Testing for One Population Mean - Known Population Variance (Z-Test)
+# Hypothesis Testing for One Population Mean - Known Population Variance (Z Test)
 
 ---
 
