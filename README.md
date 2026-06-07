@@ -16,6 +16,14 @@
 
 ---
 
+## 🎬 Tutorial Video
+
+A full step-by-step walkthrough of this tutorial is available here:
+
+🔗 [Watch on Google Drive](https://drive.google.com/file/d/1CeS3jCuuxcOFxNueY6_mJyYIBEdJr_St/view?usp=sharing)
+
+---
+
 ## 📋 Overview
 
 This repository contains the source code, case study, and documentation for a **one-sample Z-test** hypothesis testing tutorial implemented in R. The tutorial demonstrates how to perform hypothesis testing when the population standard deviation (σ) is known, using customer satisfaction scenario.
@@ -62,13 +70,5 @@ No additional packages are required - the script uses only base R functions.
 
 5. **Read the output**
    The console will display all computed values including SE, Z-statistic, critical values, P-value, decision, and conclusion.
-
----
-
-## 🎬 Tutorial Video
-
-A full step-by-step walkthrough of this tutorial is available here:
-
-🔗 [Watch on Google Drive](https://drive.google.com/file/d/1CeS3jCuuxcOFxNueY6_mJyYIBEdJr_St/view?usp=sharing)
 
 ---
