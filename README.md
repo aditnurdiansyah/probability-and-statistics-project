@@ -48,8 +48,6 @@ This repository contains the source code, case study, and documentation for a **
 - [R](https://cran.r-project.org/) (version 4.0 or higher)
 - [RStudio](https://posit.co/download/rstudio-desktop/)
 
-No additional packages are required - the script uses only base R functions.
-
 ### Steps
 
 1. **Clone this repository**
